@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Juan Ignacio Mc Kenna
 
 💻 **Desarrollador Full Stack** con experiencia en tecnologías **JavaScript, Node.js, React.js, PHP, Laravel y C#**.  
-🔧 Apasionado por construir soluciones eficientes, escalables y centradas en el usuario.  
+🔧 Enfocado en construir soluciones eficientes, escalables y centradas en el usuario.  
 🎯 Busco nuevos desafíos donde pueda aportar valor con mis conocimientos en backend y frontend.
 
 ---
